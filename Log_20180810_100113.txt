@@ -1,0 +1,113 @@
+[3] 10:01:13 AM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 10:01:13 AM: Log level: 4
+[3] 10:01:13 AM: Release: 11.2.0.13579
+[3] 10:01:14 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.947 (13484)
+[3] 10:01:14 AM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.947 (13577)
+[3] 10:01:14 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.947 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.947 (13977)
+[3] 10:01:14 AM:  + OptIntAddIn: OptIntAddIn 11.2.0.947 (12612)
+[3] 10:01:14 AM:  + RemoteControl: RemoteControlAddIn 11.2.0.947 (12612)
+[3] 10:01:14 AM:  + Reporting: ReportingAddIn 11.2.0.947 (13410)
+[3] 10:01:14 AM:  + Requirements: RequirementsManagement 11.2.0.947 (13701)
+[3] 10:01:14 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.947 (12612)
+[3] 10:01:14 AM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.947 (13572)
+[3] 10:01:14 AM:  + TestCaseDesign: TestCaseDesign 11.2.0.947 (13410)
+[3] 10:01:14 AM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.947 (12612)
+[3] 10:01:14 AM:  + XDefinitions: XDefinitions 11.2.0.947 (13741)
+[3] 10:01:14 AM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[4] 10:01:18 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:01:20 AM:  ShowStatusInfo: 'Refresh all finished'
+[3] 10:01:20 AM: OpenWorkspace took 00:00:07.3221078 to finish
+[4] 10:01:21 AM:  ShowStatusInfo: 'Ready'
+[4] 10:01:22 AM:  ShowStatusInfo: '1 object selected'
+[4] 10:01:23 AM:  ShowStatusInfo: 'Ready'
+[3] 10:01:27 AM: Task 'Run' started on '/Execution/ExecutionLists'
+[4] 10:01:27 AM:  ShowStatusInfo: 'Run'
+[0] 10:01:28 AM: ShowDetailedErrorMessage  (fatal)
+[0] 10:01:28 AM: A WaitHandle with system-wide name '6456' cannot be created. A WaitHandle of a different type might have the same name.
+[0] 10:01:28 AM: System.Threading.WaitHandleCannotBeOpenedException: A WaitHandle with system-wide name '6456' cannot be created. A WaitHandle of a different type might have the same name.
+   at System.Threading.EventWaitHandle..ctor(Boolean initialState, EventResetMode mode, String name)
+   at Tricentis.Common.Helpers.SplashScreen.SplashScreenManager.Init(String uniqueName, String message, Image icon)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.InitSplashScreen()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.BeforeMainThreadStart()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.StartThreads()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.Execute(List`1 objs, ITaskContext context)
+   at Tricentis.TCCore.Persistency.Task.ExecuteWithTaskFinalization(List`1 objs, ITaskContext context, TaskObjectContext objectContext)
+   at Tricentis.TCCore.GUI.Tasks.TaskExecutor.ExecuteModelTask(List`1 primaryModelObj, Task currentTask, Object additionalTaskInfo, ICustomTreeListNode nodeForFullObjectContext)
+   at Tricentis.TCCore.GUI.Tasks.TaskExecutor.ExecuteModelTask(Task currentTask, Object additionalInfo)
+   at DevExpress.XtraBars.BarItem.OnClick(BarItemLink link)
+   at DevExpress.XtraBars.BarButtonItem.OnClick(BarItemLink link)
+   at DevExpress.XtraBars.BarItemLink.OnLinkClick()
+   at DevExpress.XtraBars.BarButtonItemLink.OnLinkAction(BarLinkAction action, Object actionArgs)
+   at DevExpress.XtraBars.ViewInfo.BarSelectionInfo.ClickLink(BarItemLink link)
+   at DevExpress.XtraBars.ViewInfo.BarSelectionInfo.UnPressLink(BarItemLink link)
+   at DevExpress.XtraBars.Ribbon.Handler.BaseRibbonHandler.OnUnPressItem(DXMouseEventArgs e, RibbonHitInfo hitInfo)
+   at DevExpress.XtraBars.Ribbon.Handler.BaseRibbonHandler.OnMouseUp(DXMouseEventArgs e)
+   at DevExpress.XtraBars.Ribbon.Handler.RibbonHandler.OnMouseUp(DXMouseEventArgs e)
+   at DevExpress.XtraBars.Ribbon.RibbonControl.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at DevExpress.Utils.Controls.ControlBase.WndProc(Message& m)
+   at DevExpress.XtraBars.Ribbon.RibbonControl.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at DevExpress.Utils.Drawing.Helpers.NativeMethods.UnsafeNativeMethods.DefSubclassProc(IntPtr hWnd, IntPtr Msg, IntPtr wParam, IntPtr lParam)
+   at DevExpress.Utils.Drawing.Helpers.Win32SubclasserFactory.Win32Subclasser.SubClassProcInner(IntPtr hWnd, IntPtr Msg, IntPtr wParam, IntPtr lParam, IntPtr uIdSubclass, IntPtr dwRefData)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at Tricentis.TCCore.GUI.Program.Main(String[] args)
