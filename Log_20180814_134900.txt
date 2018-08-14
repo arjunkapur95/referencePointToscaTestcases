@@ -1,0 +1,56 @@
+[3] 1:49:00 PM: Log started for 'C:\Users\user\Desktop\testrepo\testrepo.tws'
+[3] 1:49:00 PM: Log level: 4
+[3] 1:49:00 PM: Release: 11.2.0.13579
+[3] 1:49:00 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.947 (13484)
+[3] 1:49:00 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.947 (13577)
+[3] 1:49:00 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.947 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.947 (13977)
+[3] 1:49:00 PM:  + OptIntAddIn: OptIntAddIn 11.2.0.947 (12612)
+[3] 1:49:00 PM:  + RemoteControl: RemoteControlAddIn 11.2.0.947 (12612)
+[3] 1:49:00 PM:  + Reporting: ReportingAddIn 11.2.0.947 (13410)
+[3] 1:49:00 PM:  + Requirements: RequirementsManagement 11.2.0.947 (13701)
+[3] 1:49:00 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.947 (12612)
+[3] 1:49:00 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.947 (13572)
+[3] 1:49:00 PM:  + TestCaseDesign: TestCaseDesign 11.2.0.947 (13410)
+[3] 1:49:00 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.947 (12612)
+[3] 1:49:00 PM:  + XDefinitions: XDefinitions 11.2.0.947 (13741)
+[3] 1:49:00 PM: Opened from Workspace File 'C:\Users\user\Desktop\testrepo\testrepo.tws'
+[3] 1:49:01 PM: OpenWorkspace took 00:00:00.9224474 to finish
+[4] 1:49:02 PM:  ShowStatusInfo: 'Ready'
+[4] 1:49:03 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Ready'
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Ready'
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Ready'
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Ready'
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:49:04 PM:  ShowStatusInfo: 'Refresh all finished'
