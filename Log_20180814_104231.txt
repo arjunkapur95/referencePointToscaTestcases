@@ -1,0 +1,27 @@
+[3] 10:42:31 AM: Log started for 'C:\Users\user\Desktop\testrepo\testrepo.tws'
+[3] 10:42:31 AM: Log level: 4
+[3] 10:42:31 AM: Release: 11.2.0.13623
+[3] 10:42:31 AM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 10:42:32 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.947 (13484)
+[3] 10:42:32 AM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.947 (13577)
+[3] 10:42:32 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.947 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.947 (13977)
+[3] 10:42:32 AM:  + OptIntAddIn: OptIntAddIn 11.2.0.947 (12612)
+[3] 10:42:32 AM:  + RemoteControl: RemoteControlAddIn 11.2.0.947 (12612)
+[3] 10:42:32 AM:  + Reporting: ReportingAddIn 11.2.0.947 (13410)
+[3] 10:42:32 AM:  - Requirements: RequirementsManagement 11.2.0.947 (13701)
+[3] 10:42:32 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.947 (12612)
+[3] 10:42:32 AM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.947 (13572)
+[3] 10:42:32 AM:  - TestCaseDesign: TestCaseDesign 11.2.0.947 (13410)
+[3] 10:42:32 AM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.947 (12612)
+[3] 10:42:32 AM:  + XDefinitions: XDefinitions 11.2.0.947 (13741)
+[3] 10:42:32 AM: Search started on 'First Steps' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 10:42:33 AM: Searcher found 1 results in 548.0548 ms
+[3] 10:42:33 AM: Search started on 'First Steps' for query '=>SUBPARTS:ExecutionList[(ContinuousIntegration=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 10:42:33 AM: Searcher found 1 results in 5.0005 ms
+[3] 10:42:33 AM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateTCFolderTask
+[3] 10:42:33 AM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateExecutionMandateTask
+[3] 10:42:33 AM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearActuallExecutionLogTask
+[3] 10:42:33 AM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearAutoMergeListTask
+[3] 10:42:33 AM: API: Executing DropTask Tricentis.TCCore.BusinessObjects.Tasks.AssignMandateDropTask
+[3] 10:42:33 AM: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.RunExecutionListTask

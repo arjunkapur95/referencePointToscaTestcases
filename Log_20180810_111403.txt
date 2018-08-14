@@ -1,0 +1,127 @@
+[3] 11:14:03 AM: Log started for 'C:\Users\user\Desktop\testrepo\testrepo.tws'
+[3] 11:14:03 AM: Log level: 4
+[3] 11:14:03 AM: Release: 11.2.0.13579
+[3] 11:14:03 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.947 (13484)
+[3] 11:14:03 AM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.947 (13577)
+[3] 11:14:03 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.947 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.947 (13977)
+[3] 11:14:03 AM:  + OptIntAddIn: OptIntAddIn 11.2.0.947 (12612)
+[3] 11:14:03 AM:  + RemoteControl: RemoteControlAddIn 11.2.0.947 (12612)
+[3] 11:14:03 AM:  + Reporting: ReportingAddIn 11.2.0.947 (13410)
+[3] 11:14:03 AM:  + Requirements: RequirementsManagement 11.2.0.947 (13701)
+[3] 11:14:03 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.947 (12612)
+[3] 11:14:03 AM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.947 (13572)
+[3] 11:14:03 AM:  + TestCaseDesign: TestCaseDesign 11.2.0.947 (13410)
+[3] 11:14:03 AM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.947 (12612)
+[3] 11:14:03 AM:  + XDefinitions: XDefinitions 11.2.0.947 (13741)
+[3] 11:14:03 AM: Opened from Workspace File 'C:\Users\user\Desktop\testrepo\testrepo.tws'
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:06 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:14:07 AM:  ShowStatusInfo: 'Refresh all finished'
+[3] 11:14:07 AM: OpenWorkspace took 00:00:04.2210821 to finish
+[4] 11:14:09 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:09 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:12 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:13 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:13 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:21 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:21 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:22 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:22 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:27 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:14:27 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:27 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:14:27 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:27 AM:  ShowStatusInfo: 'Refresh view finished'
+[4] 11:14:32 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:32 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:33 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:33 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:34 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:34 AM:  ShowStatusInfo: 'Ready'
+[4] 11:14:38 AM:  ShowStatusInfo: '1 object selected'
+[4] 11:14:38 AM:  ShowStatusInfo: 'Ready'
+[3] 11:14:42 AM: Task 'Run' started on '/Execution/ExecutionLists'
+[4] 11:14:42 AM:  ShowStatusInfo: 'Run'
+[0] 11:14:42 AM: ShowDetailedErrorMessage  (fatal)
+[0] 11:14:42 AM: A WaitHandle with system-wide name '8104' cannot be created. A WaitHandle of a different type might have the same name.
+[0] 11:14:42 AM: System.Threading.WaitHandleCannotBeOpenedException: A WaitHandle with system-wide name '8104' cannot be created. A WaitHandle of a different type might have the same name.
+   at System.Threading.EventWaitHandle..ctor(Boolean initialState, EventResetMode mode, String name)
+   at Tricentis.Common.Helpers.SplashScreen.SplashScreenManager.Init(String uniqueName, String message, Image icon)
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.InitSplashScreen()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.BeforeMainThreadStart()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.StartThreads()
+   at Tricentis.TCCore.Persistency.Tasks.ThreadTask.Execute(List`1 objs, ITaskContext context)
+   at Tricentis.TCCore.Persistency.Task.ExecuteWithTaskFinalization(List`1 objs, ITaskContext context, TaskObjectContext objectContext)
+   at Tricentis.TCCore.GUI.Tasks.TaskExecutor.ExecuteModelTask(List`1 primaryModelObj, Task currentTask, Object additionalTaskInfo, ICustomTreeListNode nodeForFullObjectContext)
+   at Tricentis.TCCore.GUI.ContextMenu.CustomContextMenu.ExecuteModelTask(List`1 primaryModelObj, Task currentTask, Object additionalTaskInfo, ICustomTreeListNode node)
+   at Tricentis.TCCore.GUI.ContextMenu.CustomContextMenu.Submenu_ItemClicked(Object sender, ToolStripItemClickedEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnItemClicked(ToolStripItemClickedEventArgs e)
+   at System.Windows.Forms.ToolStripDropDown.OnItemClicked(ToolStripItemClickedEventArgs e)
+   at System.Windows.Forms.ToolStrip.HandleItemClick(ToolStripItem dismissingItem)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at Tricentis.TCCore.GUI.Program.Main(String[] args)

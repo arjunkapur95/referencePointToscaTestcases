@@ -1,0 +1,17 @@
+[3] 11:37:31 AM: Log started for 'C:\Users\user\Desktop\testrepo\testrepo.tws'
+[3] 11:37:31 AM: Log level: 4
+[3] 11:37:31 AM: Release: 11.2.0.13623
+[3] 11:37:31 AM: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 11:37:32 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 11.2.0.947 (13484)
+[3] 11:37:32 AM:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 11.2.0.947 (13577)
+[3] 11:37:32 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 11.2.0.947 (13545)
+    + : SAPSolutionManagerIntegration 11.2.0.947 (13977)
+[3] 11:37:32 AM:  + OptIntAddIn: OptIntAddIn 11.2.0.947 (12612)
+[3] 11:37:32 AM:  + RemoteControl: RemoteControlAddIn 11.2.0.947 (12612)
+[3] 11:37:32 AM:  + Reporting: ReportingAddIn 11.2.0.947 (13410)
+[3] 11:37:32 AM:  - Requirements: RequirementsManagement 11.2.0.947 (13701)
+[3] 11:37:32 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 11.2.0.947 (12612)
+[3] 11:37:32 AM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 11.2.0.947 (13572)
+[3] 11:37:32 AM:  - TestCaseDesign: TestCaseDesign 11.2.0.947 (13410)
+[3] 11:37:32 AM:  - ControlFlowDiagram: TestCaseVisualizationAddIn 11.2.0.947 (12612)
+[3] 11:37:32 AM:  + XDefinitions: XDefinitions 11.2.0.947 (13741)
